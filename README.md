@@ -1,4 +1,7 @@
 # Minecraft Clone: Infinite Terrain Exploration
+
+![In-game screenshot](pythoncraft.png)
+
 This Minecraft clone is a voxel-based 3D world generator that focuses on creating an expansive and immersive environment. While core gameplay elements such as crafting or survival mechanics are not yet implemented, the foundation of the world is already set, featuring:
 
 + Infinite Random Terrain Generation
